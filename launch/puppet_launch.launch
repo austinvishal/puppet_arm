@@ -1,0 +1,13 @@
+<launch>
+
+
+
+
+<node pkg="puppet_arm" type = "puppet_arm_node" name = "play">
+	
+	
+	<remap from = "/joint_command" to = "/robot/limb/left/joint_command"/>
+</node>
+
+
+</launch>

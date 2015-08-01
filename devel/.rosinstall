@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/aura/catkin_ws/src/puppet_arm/devel/setup.sh

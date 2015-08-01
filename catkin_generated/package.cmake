@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "puppet_arm")
+set(puppet_arm_MAINTAINER "aura <aura@todo.todo>")
+set(puppet_arm_DEPRECATED "")
+set(puppet_arm_VERSION "0.0.0")
+set(puppet_arm_BUILD_DEPENDS "roscpp" "sensor_msgs")
+set(puppet_arm_RUN_DEPENDS "roscpp" "sensor_msgs")
+set(puppet_arm_BUILDTOOL_DEPENDS "catkin")

@@ -1,0 +1,8 @@
+prefix=/home/aura/catkin_ws/src/puppet_arm/devel
+
+Name: puppet_arm
+Description: Description of puppet_arm
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/aura/catkin_ws/src/puppet_arm/devel/lib 
+Requires: 
